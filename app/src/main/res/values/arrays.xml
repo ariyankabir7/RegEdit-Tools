@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="graphics_array">
+        <item>So Smooth</item>
+        <item>Smooth HD</item>
+        <item>Balanced</item>
+        <item>HDR</item>
+    </string-array>
+    <string-array name="resolution_array" >
+        <item>Default</item>
+        <item>Smooth</item>
+        <item>Pro</item>
+        <item>Max</item>
+    </string-array>
+    <string-array name="fps_array">
+        <item>30FPS</item>
+        <item>40FPS</item>
+        <item>60FPS</item>
+        <item>90FPS</item>
+    </string-array>
+    <string-array name="Lgraphics_array" >
+        <item>Open GGL 2.0</item>
+        <item>Open GGL 3.1</item>
+        <item>Vulukan</item>
+    </string-array>
+    <string-array name="Shadow">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array>
+    <string-array name="Distance">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array>
+    <string-array name="Move">
+        <item>Disable</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="Text">
+        <item>Default</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="Fgraphics_array">
+        <item>Normal</item>
+        <item>High</item>
+        <item>Pro</item>
+    </string-array>
+    <string-array name="Style_array">
+        <item>Classic</item>
+        <item>Colorful</item>
+        <item>Soft</item>
+    </string-array>
+</resources>

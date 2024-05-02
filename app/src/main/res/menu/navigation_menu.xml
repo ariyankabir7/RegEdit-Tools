@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/grp1" android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/shared"
+            android:icon="@drawable/sh"
+            android:title="Share App" />
+    </group>
+
+    <group android:id="@+id/grp2" android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/rating"
+            android:title="Rate Upto 5 Star" />
+    </group>
+
+    <group android:id="@+id/grp3" android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/privacy"
+            android:icon="@drawable/privacy"
+            android:title="Privacy Policy" />
+    </group>
+
+    <!-- Divider -->
+    <group android:id="@+id/grp4" android:checkableBehavior="single" >
+
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/power_off"
+            android:title="Exit" />
+    </group>
+    <group android:id="@+id/grp5" android:checkableBehavior="single" >
+        <item
+            android:title=""
+            />
+    </group>
+</menu>
